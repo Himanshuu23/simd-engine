@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+test_simd
+test_simd.exe
